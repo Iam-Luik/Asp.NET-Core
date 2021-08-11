@@ -15,7 +15,7 @@
     <None Update="HTML\formulario.html">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
-    <None Update="HTML\para-ler.html">
+    <None Update="HTML\lista.html">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
     <None Update="Repositorio\livros.csv">
